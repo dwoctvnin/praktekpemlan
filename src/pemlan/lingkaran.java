@@ -21,6 +21,7 @@ public class lingkaran {
         lingkaran lingkaran3=new lingkaran();
         lingkaran3.setJarijari(100);
         System.out.println("Luas lingkaran dengan jari-jari "+ lingkaran3.Jarijari + " yaitu " + lingkaran3.luas());
+        System.out.println("saya");
     }
        
     
